@@ -1,0 +1,2 @@
+# This repository only exists so I can get my grades
+if you're a recruiter seeing this repo in the future, i do not have interest in working with flutter, see my swift and react native projects (if I've finally populated my github with them)
